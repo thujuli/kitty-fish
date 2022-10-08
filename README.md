@@ -4,7 +4,8 @@ Configuration for Kitty and Fish for daily driver
 `sudo apt install kitty`
 ## Keyboard Shortcuts for Kitty
 > [Ubuntu](https://help.ubuntu.com/stable/ubuntu-help/keyboard-shortcuts-set.html.en)
-`<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>t</kbd>`
+
+> Shortcut: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>t</kbd>
 ## Install Fish Shell
 - `sudo apt-add-repository ppa:fish-shell/release-3`
 - `sudo apt update`
